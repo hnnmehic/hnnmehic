@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hanan Mehic</h1>
-<h3 align="center">A passionate developer from Austria</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hnnmehic&label=Profile%20views&color=0e75b6&style=flat" alt="hnnmehic" /> </p>
 
-- 🔭 I’m currently working on **trash together, GamePlanPro**
 
-- 🌱 I’m currently learning **php, JavaFx,Multithreading**
 
-- 📫 How to reach me **hanan_mehic@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
